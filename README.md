@@ -1,0 +1,1 @@
+# repair-smart-trash-pin
