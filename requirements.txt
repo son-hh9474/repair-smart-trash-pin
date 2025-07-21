@@ -1,0 +1,3 @@
+gpiozero==2.0.1
+RPLCD==1.4.0
+pytest==8.4.1
